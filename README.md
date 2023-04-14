@@ -9,3 +9,12 @@ As there is no functioning app available at present, there is no account creatio
 
 Future Updates:
 I am committed to developing and launching the Groop app, and I will provide updates as the project progresses. I appreciate your interest in the concept and look forward to sharing more with you in the future.
+
+
+Update:
+
+I am pleased to announce that a demo of the Groop App is now available in the repository. You can find it in the form of an HTML file named "groop_demo.html". The demo provides a sneak peek into what the app would look like and how it would function.
+
+To run the demo, simply open the HTML file in your preferred web browser. Please note that the demo is a prototype and does not contain all the features that will be available in the final version of the app.
+
+I am still working hard to bring the full version of the Groop app to life and I appreciate your continued interest in the project. Stay tuned for further updates!
